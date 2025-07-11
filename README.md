@@ -20,6 +20,7 @@ Data Structures and Algorithms Practice
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
@@ -33,10 +34,12 @@ Data Structures and Algorithms Practice
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +56,12 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
