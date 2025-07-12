@@ -48,6 +48,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +65,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
