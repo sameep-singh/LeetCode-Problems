@@ -12,6 +12,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3396-valid-word) |
 ## String Matching
 |  |
@@ -20,6 +21,7 @@ Data Structures and Algorithms Practice
 ## Array
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -89,4 +91,12 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
