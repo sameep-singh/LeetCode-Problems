@@ -12,6 +12,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3396-valid-word) |
 ## String Matching
