@@ -24,6 +24,7 @@ Data Structures and Algorithms Practice
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -74,6 +75,7 @@ Data Structures and Algorithms Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
