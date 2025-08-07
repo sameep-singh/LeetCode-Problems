@@ -11,6 +11,7 @@ Data Structures and Algorithms Practice
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -97,6 +98,7 @@ Data Structures and Algorithms Practice
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -111,6 +113,7 @@ Data Structures and Algorithms Practice
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
