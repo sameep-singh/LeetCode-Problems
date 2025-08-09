@@ -137,6 +137,7 @@ Data Structures and Algorithms Practice
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
@@ -160,6 +161,7 @@ Data Structures and Algorithms Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -201,4 +203,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0826-soup-servings) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
