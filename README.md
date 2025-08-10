@@ -65,6 +65,7 @@ Data Structures and Algorithms Practice
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
@@ -108,6 +109,7 @@ Data Structures and Algorithms Practice
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -115,6 +117,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -139,6 +142,7 @@ Data Structures and Algorithms Practice
 | ------- |
 | [0231-power-of-two](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
@@ -207,4 +211,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
