@@ -42,6 +42,7 @@ Data Structures and Algorithms Practice
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -171,6 +172,7 @@ Data Structures and Algorithms Practice
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
 ## Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
