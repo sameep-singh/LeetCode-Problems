@@ -17,6 +17,7 @@ Data Structures and Algorithms Practice
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3396-valid-word) |
 ## String Matching
 |  |
