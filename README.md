@@ -57,6 +57,7 @@ Data Structures and Algorithms Practice
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -149,6 +150,7 @@ Data Structures and Algorithms Practice
 | [0826-soup-servings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 ## Depth-First Search
 |  |
 | ------- |
