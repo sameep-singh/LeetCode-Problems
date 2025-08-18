@@ -27,6 +27,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0679-24-game](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -149,6 +150,7 @@ Data Structures and Algorithms Practice
 | [0231-power-of-two](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
@@ -202,6 +204,7 @@ Data Structures and Algorithms Practice
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
