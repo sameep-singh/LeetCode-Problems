@@ -174,6 +174,7 @@ Data Structures and Algorithms Practice
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Depth-First Search
 |  |
 | ------- |
