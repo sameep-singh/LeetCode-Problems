@@ -190,6 +190,7 @@ Data Structures and Algorithms Practice
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3830-find-closest-person) |
 ## Depth-First Search
 |  |
 | ------- |
