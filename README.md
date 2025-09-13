@@ -21,6 +21,7 @@ Data Structures and Algorithms Practice
 | [2887-sort-vowels-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Data Structures and Algorithms Practice
 | [2479-meeting-rooms-iii](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sameep-singh/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Monotonic Stack
 |  |
 | ------- |
