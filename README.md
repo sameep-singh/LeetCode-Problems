@@ -14,6 +14,7 @@ Data Structures and Algorithms Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -168,6 +169,7 @@ Data Structures and Algorithms Practice
 | [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
