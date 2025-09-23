@@ -6,6 +6,7 @@ Data Structures and Algorithms Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
@@ -33,6 +34,7 @@ Data Structures and Algorithms Practice
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0118-pascals-triangle) |
