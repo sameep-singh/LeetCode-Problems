@@ -14,6 +14,7 @@ Data Structures and Algorithms Practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -175,6 +176,7 @@ Data Structures and Algorithms Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
@@ -207,6 +209,7 @@ Data Structures and Algorithms Practice
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0342-power-of-four) |
