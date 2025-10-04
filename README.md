@@ -6,6 +6,7 @@ Data Structures and Algorithms Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sameep-singh/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -35,6 +36,7 @@ Data Structures and Algorithms Practice
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0037-sudoku-solver) |
@@ -91,6 +93,7 @@ Data Structures and Algorithms Practice
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sameep-singh/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sameep-singh/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
